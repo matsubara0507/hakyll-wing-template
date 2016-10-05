@@ -3,7 +3,7 @@ Light and beautiful blog style template for hakyll.
 
 Port of [jekyll-wing-template](https://github.com/nikrich/jekyll-wing-template)
 
-![preview](https://github.com/matsubara0507/hakyll-wing-template/fig/screenshot.png)
+![preview](https://github.com/matsubara0507/hakyll-wing-template/blob/master/fig/screenshot.PNG)
 
 ## Demo
 Find a demo [here](http://matsubara0507.github.io/hakyll-wing-template/#)
